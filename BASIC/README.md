@@ -235,3 +235,14 @@ Contoh code: Read_Write_Property.cs
 Pada contoh code di atas, kita memiliki class yang berisi field private sehingga kita tidak bisa mengakses field tersebut dari luar class.
 Tapi kita masih bisa mengakses field tersebut dengan menggunakan property.
 
+### Auto-Implemented Properties di C#
+Jika kita tidak memiliki logic/validasi saat melakukan set and get data dari data field maka kita bisa menggunakan auto-implemented property yang dikenalkan pada C# 3.0.
+Auto-implemented mengurangi code yang harus kita tulis, saat kita menggunakan nya, C# compiler secara implisit membuat private, anonymous field di belakang layar yang digunakan untuk menampung data.
+Contoh Code: Auto_implemented_property.cs
+
+## Kenapa Kita Butuh Property Pada Aplikasi ?
+Tanpa property, kita harus menggunakan data member public agar bisa di akses dari luar class secara langsung.
+Dan mengakses data member secara langsung dari luar class adalah hal yang buruk, karena kita tidak bisa mengkontrol data seperti apa yang akan dikirim dan diterima.
+Dengan property, kita bisa menggunakan data member yang private dan tetap bisa di akses dari luar class, plus kita juga bisa membuat validasi untuk data member tersebut.
+
+
