@@ -52,3 +52,83 @@ OOP mendukung konsep di bawah ini:
 	1) Static polymorphism/compile-time polymorphism /early binding (using function overloading and operator overloading)
 	2) Dynamic polymorphism / Run time polymorphism / Late binding (using function overriding)
 
+# CLASS DAN OBJECT
+>> SKIP : class dan object di skip dulu nyak
+
+# CONSTRUCTOR
+## Apa itu Constructor?
+- Constructor adalah tipe method yang spesial dari sebuah class yang secara otomatis di jalankan ketika kita membuat sebuah object dari class tersebut.
+- Constructor memiliki dua tanggung jawab, pertama inisilasisasi object dan kedua memory allocation. 
+- Keyword "new" digunakan untuk membuat object.
+
+## Aturan-aturan Pembuatan Constructor
+- Nama constructor harus sama dengan nama class
+- Tidak memiliki return type meskipun void also
+- Seharusnya tidak memiliki modifier
+
+## Berapa Jenis Tipe Constructor yang ada di C# ?
+- Default Constructor
+- Parameterized Constructor
+- Copy Constructor
+- Static Constructor
+- Private Constructor
+
+## Default Constructor
+- Default Constructor di bagi menjadi dua, yaitu system-defined dan user-defined default constructor.
+
+### System-Defined Default Constructor
+- System-defined default constructor adalah ketika kita tidak membuat constructor secara explisit pada sebuah class, maka secara default system akan menyediakan satu constructor saat compilation.
+- Default constructor akan meng- assign default values ke data members(non static)
+
+>> SKIP : skip dulu sisaan constructo rnya
+
+# DESTRUCTOR
+>> SKIP : skip dulu 
+
+# ACCESS SPESIFIERS
+>> SKIP : skip dulu 
+
+# ENCAPSULATION
+## Encapsulation Adalah?
+- Sebuah proses pemanggilan data dan method secara bersamaan ke dalam satu unit/class disebut ecanpsulation.
+- Encapsulation juga bisa di bilang sebagai pembuatan sebuah class yang menyembunyikan internal data member nya agar tidak bisa di akses dari luar class secara langsung, tetapi hanya bisa di akses melalui public method atau setter getter(properties) dengan validasi yang baik.
+
+## Cara Implementasi Encapsulation
+- Cara implementasi encapsulation di C#
+	1. deklarasi variable sebagai private(untuk mencegah di akses secara langsung dari luar class)
+	2. membuat sepasang method getter setter atau properties untuk mengakses variable private
+- Kita mendeklarasi variable sebagai private agar tidak bisa di akses secara langsung dari luar class, dan membuat properties untuk mengakses variable tersebut dari class dengan validation yang valid.
+- Jika kita menyediakan variable yang bisa di akses langsung dari luar class, maka kita tidak bisa membuat validation untuk data yang akan di store ke variable.
+
+>> SKIP : skip dulu contoh2 nya, yang penting udah dapet gambarannya
+
+# ABSTRACTION
+- Abstraction adalah lawan dari Encapsulation, yaitu menampilkan member yang hanya di butuhkan saja.
+
+>> SKIP: skip dulu, inti nya abstraction itu lawan nya encapsulation.
+
+# INTERFACE VS ABSTRACT CLASS
+
+- Abstract Class	: sebuah class yang hanya sebagian saja di implementasi, sehingga bisa membuat method yang konkrit dan method abstract
+- Interface 		: sebuah class yang seluruh nya blm di implementasi, sehingga hanya bisa membuat abstract method
+
+- Abstract Class	: menggunakan keyword abstract untuk membuat class dan method di dalam nya
+- Interface 		: menggunakan keyword intrface untuk membuat class, dan secara optional menggunakan keyword abstract untuk method, secara default method di interface akan menjadi abstract method saat di compile
+
+- Abstract Class	: sebuah class yang hanya sebagian saja di implementasi, sehingga bisa membuat method yang konkrit dan method abstract
+- Interface 		: sebuah class yang seluruh nya blm di implementasi, sehingga hanya bisa membuat abstract method
+
+- Abstract Class	: bisa deklarasi data fields
+- Interface 		: tidak bisa deklarasi data fields
+
+# INTERFACE
+## Kenapa Kita Butuh Interface?
+- .Net tidak bisa melakukan multiple inheritance menggunakan class, tapi bisa menggunakan interface.
+
+## Apa Itu Interface?
+- Interface adalah sebuah class yang semua member di dalam nya belum di implement.
+- Interface juga bisa di katakan sebagai sebuah abstract class yang murni karena hanya bisa membuat abstract method di dalam interface.
+- Abstract method adalah sebuah method yang di implement body nya, alias kosong.
+
+## Kenapa Masih Butuh Interface Sedangkan Ada Abstract Class Untuk Menampung Abstract Method?
+- Karena .Net tidak mendukung multiple inheritance menggunakan class sehingga kita harus menggunakan interface sebagai superclass untuk membuat multiple inheritance.
