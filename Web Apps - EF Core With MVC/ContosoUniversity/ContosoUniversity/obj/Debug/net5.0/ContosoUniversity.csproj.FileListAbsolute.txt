@@ -155,3 +155,13 @@ D:\My Source Code\LEARNING C#\BELAJAR.DOTNET.CSHARP\Web Apps - EF Core With MVC\
 D:\My Source Code\LEARNING C#\BELAJAR.DOTNET.CSHARP\Web Apps - EF Core With MVC\ContosoUniversity\ContosoUniversity\obj\Debug\net5.0\Razor\Views\Students\Edit.cshtml.g.cs
 D:\My Source Code\LEARNING C#\BELAJAR.DOTNET.CSHARP\Web Apps - EF Core With MVC\ContosoUniversity\ContosoUniversity\obj\Debug\net5.0\Razor\Views\Students\Index.cshtml.g.cs
 D:\My Source Code\LEARNING C#\BELAJAR.DOTNET.CSHARP\Web Apps - EF Core With MVC\ContosoUniversity\ContosoUniversity\obj\Debug\net5.0\Razor\Views\Home\About.cshtml.g.cs
+D:\My Source Code\LEARNING C#\BELAJAR.DOTNET.CSHARP\Web Apps - EF Core With MVC\ContosoUniversity\ContosoUniversity\obj\Debug\net5.0\Razor\Views\Courses\Create.cshtml.g.cs
+D:\My Source Code\LEARNING C#\BELAJAR.DOTNET.CSHARP\Web Apps - EF Core With MVC\ContosoUniversity\ContosoUniversity\obj\Debug\net5.0\Razor\Views\Courses\Delete.cshtml.g.cs
+D:\My Source Code\LEARNING C#\BELAJAR.DOTNET.CSHARP\Web Apps - EF Core With MVC\ContosoUniversity\ContosoUniversity\obj\Debug\net5.0\Razor\Views\Courses\Details.cshtml.g.cs
+D:\My Source Code\LEARNING C#\BELAJAR.DOTNET.CSHARP\Web Apps - EF Core With MVC\ContosoUniversity\ContosoUniversity\obj\Debug\net5.0\Razor\Views\Courses\Edit.cshtml.g.cs
+D:\My Source Code\LEARNING C#\BELAJAR.DOTNET.CSHARP\Web Apps - EF Core With MVC\ContosoUniversity\ContosoUniversity\obj\Debug\net5.0\Razor\Views\Courses\Index.cshtml.g.cs
+D:\My Source Code\LEARNING C#\BELAJAR.DOTNET.CSHARP\Web Apps - EF Core With MVC\ContosoUniversity\ContosoUniversity\obj\Debug\net5.0\Razor\Views\Instructors\Create.cshtml.g.cs
+D:\My Source Code\LEARNING C#\BELAJAR.DOTNET.CSHARP\Web Apps - EF Core With MVC\ContosoUniversity\ContosoUniversity\obj\Debug\net5.0\Razor\Views\Instructors\Delete.cshtml.g.cs
+D:\My Source Code\LEARNING C#\BELAJAR.DOTNET.CSHARP\Web Apps - EF Core With MVC\ContosoUniversity\ContosoUniversity\obj\Debug\net5.0\Razor\Views\Instructors\Details.cshtml.g.cs
+D:\My Source Code\LEARNING C#\BELAJAR.DOTNET.CSHARP\Web Apps - EF Core With MVC\ContosoUniversity\ContosoUniversity\obj\Debug\net5.0\Razor\Views\Instructors\Edit.cshtml.g.cs
+D:\My Source Code\LEARNING C#\BELAJAR.DOTNET.CSHARP\Web Apps - EF Core With MVC\ContosoUniversity\ContosoUniversity\obj\Debug\net5.0\Razor\Views\Instructors\Index.cshtml.g.cs
