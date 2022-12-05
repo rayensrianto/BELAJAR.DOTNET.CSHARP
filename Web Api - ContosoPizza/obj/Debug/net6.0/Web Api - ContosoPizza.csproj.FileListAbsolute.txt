@@ -1,0 +1,32 @@
+D:\My Source Code\LEARNING C#\BELAJAR.DOTNET.CSHARP\Web Api - ContosoPizza\bin\Debug\net6.0\appsettings.Development.json
+D:\My Source Code\LEARNING C#\BELAJAR.DOTNET.CSHARP\Web Api - ContosoPizza\bin\Debug\net6.0\appsettings.json
+D:\My Source Code\LEARNING C#\BELAJAR.DOTNET.CSHARP\Web Api - ContosoPizza\bin\Debug\net6.0\Web Api - ContosoPizza.exe
+D:\My Source Code\LEARNING C#\BELAJAR.DOTNET.CSHARP\Web Api - ContosoPizza\bin\Debug\net6.0\Web Api - ContosoPizza.deps.json
+D:\My Source Code\LEARNING C#\BELAJAR.DOTNET.CSHARP\Web Api - ContosoPizza\bin\Debug\net6.0\Web Api - ContosoPizza.runtimeconfig.json
+D:\My Source Code\LEARNING C#\BELAJAR.DOTNET.CSHARP\Web Api - ContosoPizza\bin\Debug\net6.0\Web Api - ContosoPizza.dll
+D:\My Source Code\LEARNING C#\BELAJAR.DOTNET.CSHARP\Web Api - ContosoPizza\bin\Debug\net6.0\Web Api - ContosoPizza.pdb
+D:\My Source Code\LEARNING C#\BELAJAR.DOTNET.CSHARP\Web Api - ContosoPizza\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\My Source Code\LEARNING C#\BELAJAR.DOTNET.CSHARP\Web Api - ContosoPizza\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\My Source Code\LEARNING C#\BELAJAR.DOTNET.CSHARP\Web Api - ContosoPizza\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\My Source Code\LEARNING C#\BELAJAR.DOTNET.CSHARP\Web Api - ContosoPizza\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\My Source Code\LEARNING C#\BELAJAR.DOTNET.CSHARP\Web Api - ContosoPizza\obj\Debug\net6.0\Web Api - ContosoPizza.csproj.AssemblyReference.cache
+D:\My Source Code\LEARNING C#\BELAJAR.DOTNET.CSHARP\Web Api - ContosoPizza\obj\Debug\net6.0\Web Api - ContosoPizza.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Source Code\LEARNING C#\BELAJAR.DOTNET.CSHARP\Web Api - ContosoPizza\obj\Debug\net6.0\Web Api - ContosoPizza.AssemblyInfoInputs.cache
+D:\My Source Code\LEARNING C#\BELAJAR.DOTNET.CSHARP\Web Api - ContosoPizza\obj\Debug\net6.0\Web Api - ContosoPizza.AssemblyInfo.cs
+D:\My Source Code\LEARNING C#\BELAJAR.DOTNET.CSHARP\Web Api - ContosoPizza\obj\Debug\net6.0\Web Api - ContosoPizza.csproj.CoreCompileInputs.cache
+D:\My Source Code\LEARNING C#\BELAJAR.DOTNET.CSHARP\Web Api - ContosoPizza\obj\Debug\net6.0\Web Api - ContosoPizza.MvcApplicationPartsAssemblyInfo.cs
+D:\My Source Code\LEARNING C#\BELAJAR.DOTNET.CSHARP\Web Api - ContosoPizza\obj\Debug\net6.0\Web Api - ContosoPizza.MvcApplicationPartsAssemblyInfo.cache
+D:\My Source Code\LEARNING C#\BELAJAR.DOTNET.CSHARP\Web Api - ContosoPizza\obj\Debug\net6.0\staticwebassets\msbuild.Web Api - ContosoPizza.Microsoft.AspNetCore.StaticWebAssets.props
+D:\My Source Code\LEARNING C#\BELAJAR.DOTNET.CSHARP\Web Api - ContosoPizza\obj\Debug\net6.0\staticwebassets\msbuild.build.Web Api - ContosoPizza.props
+D:\My Source Code\LEARNING C#\BELAJAR.DOTNET.CSHARP\Web Api - ContosoPizza\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Web Api - ContosoPizza.props
+D:\My Source Code\LEARNING C#\BELAJAR.DOTNET.CSHARP\Web Api - ContosoPizza\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Web Api - ContosoPizza.props
+D:\My Source Code\LEARNING C#\BELAJAR.DOTNET.CSHARP\Web Api - ContosoPizza\obj\Debug\net6.0\staticwebassets.pack.json
+D:\My Source Code\LEARNING C#\BELAJAR.DOTNET.CSHARP\Web Api - ContosoPizza\obj\Debug\net6.0\staticwebassets.build.json
+D:\My Source Code\LEARNING C#\BELAJAR.DOTNET.CSHARP\Web Api - ContosoPizza\obj\Debug\net6.0\staticwebassets.development.json
+D:\My Source Code\LEARNING C#\BELAJAR.DOTNET.CSHARP\Web Api - ContosoPizza\obj\Debug\net6.0\scopedcss\bundle\Web Api - ContosoPizza.styles.css
+D:\My Source Code\LEARNING C#\BELAJAR.DOTNET.CSHARP\Web Api - ContosoPizza\obj\Debug\net6.0\Web Api - ContosoPizza.csproj.CopyComplete
+D:\My Source Code\LEARNING C#\BELAJAR.DOTNET.CSHARP\Web Api - ContosoPizza\obj\Debug\net6.0\Web Api - ContosoPizza.dll
+D:\My Source Code\LEARNING C#\BELAJAR.DOTNET.CSHARP\Web Api - ContosoPizza\obj\Debug\net6.0\refint\Web Api - ContosoPizza.dll
+D:\My Source Code\LEARNING C#\BELAJAR.DOTNET.CSHARP\Web Api - ContosoPizza\obj\Debug\net6.0\Web Api - ContosoPizza.pdb
+D:\My Source Code\LEARNING C#\BELAJAR.DOTNET.CSHARP\Web Api - ContosoPizza\obj\Debug\net6.0\Web Api - ContosoPizza.genruntimeconfig.cache
+D:\My Source Code\LEARNING C#\BELAJAR.DOTNET.CSHARP\Web Api - ContosoPizza\obj\Debug\net6.0\ref\Web Api - ContosoPizza.dll
