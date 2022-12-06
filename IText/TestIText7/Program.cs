@@ -12,8 +12,8 @@ namespace TestIText7
 {
     class Program
     {
-        public static readonly string SRC = "../../Template/Template2.pdf";
-        public static readonly string DEST = "../../Result/tEMPLATE2out.pdf";
+        public static readonly string SRC = "../../Template/bookmarks.pdf";
+        public static readonly string DEST = "../../Result/bookmarks.pdf";
 
         static void Main(string[] args)
         {
@@ -44,7 +44,7 @@ namespace TestIText7
             {
                 PdfStream stream = (PdfStream)pdfObject;
                 byte[] data = stream.GetBytes();
-                String replacedData4 = JavaUtil.GetStringForBytes(data).Replace("{name}", "orem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.");
+                String replacedData4 = JavaUtil.GetStringForBytes(data).Replace("FOOBAR", "ryan");
 
                
                 stream.SetData((Encoding.UTF8.GetBytes(replacedData4)));
