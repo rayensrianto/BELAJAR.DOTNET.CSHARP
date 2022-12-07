@@ -12,8 +12,8 @@ namespace TestIText7
 {
     class Program
     {
-        public static readonly string SRC = "../../Template/bookmarks.pdf";
-        public static readonly string DEST = "../../Result/bookmarks.pdf";
+        public static readonly string SRC = "../../Template/hello.pdf";
+        public static readonly string DEST = "../../Result/hellooutput.pdf";
 
         static void Main(string[] args)
         {
@@ -44,12 +44,8 @@ namespace TestIText7
             {
                 PdfStream stream = (PdfStream)pdfObject;
                 byte[] data = stream.GetBytes();
-                String replacedData4 = JavaUtil.GetStringForBytes(data).Replace("FOOBAR", "ryan");
-
-               
+                String replacedData4 = JavaUtil.GetStringForBytes(data).Replace("Hello", "ryaawefawefawefaw awefawefawefwaefn");
                 stream.SetData((Encoding.UTF8.GetBytes(replacedData4)));
-
-
             }
 
             pdfDoc.Close();
